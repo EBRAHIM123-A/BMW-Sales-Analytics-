@@ -1,30 +1,44 @@
-# BMW Sales Analytics Dashboard
+# BMW Group Sales Analytics
 
 ## Project Overview
-Interactive Power BI dashboard analyzing BMW sales performance across regions, vehicle models, and years.
+This project analyzes BMW Group sales performance from 2018 to 2025 using Python and Business Intelligence techniques.
 
-## Tools Used
-- Power BI
-- SQL
+The analysis focuses on:
+
+- Revenue Performance
+- Units Sold Trends
+- BEV (Electric Vehicle) Adoption
+- Regional Performance
+- Model Performance
+- Segment Analysis
+- Correlation Analysis
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 - Excel
-- DAX
-- Power Query
-
-## Key KPIs
-- Total Revenue
-- ARPU
-- Total Units Sold
-- BEV Share %
 
 ## Key Insights
-- X7 is the top revenue-generating model.
-- China leads all regions in revenue.
-- Total sales exceeded 25M units.
-- Strong contribution from BEV vehicles.
 
-## Files Included
-- BMW_PowerBI_Sales_Analytics.pbix
-- BMW_Sales_Analytics.xlsx
-- BMW_Sales_Analytics.sql
-- Executive_Summary.png
-- Data_Model.png
+- Identified top-performing vehicle models.
+- Analyzed revenue growth across regions.
+- Evaluated electric vehicle adoption trends.
+- Built interactive and static dashboards.
+- Generated executive business insights.
+
+## Project Outputs
+
+- Revenue Dashboard
+- Correlation Matrix
+- Interactive Plotly Dashboard
+- Excel Analytics Report
+
+## Author
+
+Ebrahim Ahmad
+Data Analyst | Power BI | Python | Excel
